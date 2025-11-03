@@ -1,11 +1,11 @@
 
 🧠 Introduction
 
-This project is a real-time ride-booking web application inspired by Uber, developed using the MERN stack — MongoDB, Express.js, React.js, and Node.js.
+This project is a real-time ride-booking web application inspired by Uber, developed using the MERN stack  MongoDB, Express.js, React.js, and Node.js.
 
-The main goal of this project is to allow users to book rides online, track driver locations in real-time, and complete rides with OTP verification — just like the real Uber app.
+The main goal of this project is to allow users to book rides online, track driver locations in real time, and complete rides with OTP verification  just like the real Uber app.
 
-This project helps understand how real-time applications, authentication systems, and maps integrations work together in modern web development.
+This project helps understand how real time applications, authentication systems, and maps integrations work together in modern web development.
 
 
 🎯 Objective
